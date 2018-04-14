@@ -207,6 +207,14 @@
             }
         },
         {
+            "Key": "93aa0d00-6abf-4738-9883-0a523846cc73",
+            "Value": {
+                "id": "8ea092b1-3131-4567-91a7-791c6b63e66d",
+                "resourcePath": "sprites\\sprite11\\sprite11.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "964df77e-fa1c-42b7-8b8d-abfa2ab3864d",
             "Value": {
                 "id": "0b1e20eb-77fb-435c-a0f9-124e98de18cc",
@@ -388,6 +396,22 @@
                 "id": "2e9363cd-540d-4560-a9b9-b59799655a0d",
                 "resourcePath": "views\\e6b1e62b-e439-4ca1-94cc-259fb94b7bac.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "eab36d55-929a-41ff-b01e-d559e26c3ebd",
+            "Value": {
+                "id": "9ac8e032-62ba-4555-8220-17f63fa4c867",
+                "resourcePath": "objects\\object10\\object10.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f0b91ed7-03ab-4ecb-bba8-c9c7cdba8415",
+            "Value": {
+                "id": "63cc07ad-04d9-45a4-964d-7294185d5596",
+                "resourcePath": "objects\\obj_comcesto\\obj_comcesto.yy",
+                "resourceType": "GMObject"
             }
         },
         {
