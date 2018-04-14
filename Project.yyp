@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "3c64ebb7-0e33-4f79-ac31-a7faecd81412",
+            "Value": {
+                "id": "5cef714d-66fb-4482-abdc-795c5cef107f",
+                "resourcePath": "sprites\\pontuacao\\pontuacao.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3ca769f3-f0b3-4998-b86b-67fd9b4d52da",
             "Value": {
                 "id": "7f4836dd-756f-4ab8-80ee-6dc94baf09c9",
