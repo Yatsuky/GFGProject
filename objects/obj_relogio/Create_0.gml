@@ -1,3 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
-mover = false;
+speed = 15;
+direction = 67;
